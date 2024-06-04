@@ -1,0 +1,7 @@
+C:\Users\yordi\source\repos\ConsoleApp1onlab3\ConsoleApp1onlab3\obj\Debug\ConsoleApp1onlab3.csproj.AssemblyReference.cache
+C:\Users\yordi\source\repos\ConsoleApp1onlab3\ConsoleApp1onlab3\obj\Debug\ConsoleApp1onlab3.csproj.CoreCompileInputs.cache
+C:\Users\yordi\source\repos\ConsoleApp1onlab3\ConsoleApp1onlab3\bin\Debug\ConsoleApp1onlab3.exe.config
+C:\Users\yordi\source\repos\ConsoleApp1onlab3\ConsoleApp1onlab3\bin\Debug\ConsoleApp1onlab3.exe
+C:\Users\yordi\source\repos\ConsoleApp1onlab3\ConsoleApp1onlab3\bin\Debug\ConsoleApp1onlab3.pdb
+C:\Users\yordi\source\repos\ConsoleApp1onlab3\ConsoleApp1onlab3\obj\Debug\ConsoleApp1onlab3.exe
+C:\Users\yordi\source\repos\ConsoleApp1onlab3\ConsoleApp1onlab3\obj\Debug\ConsoleApp1onlab3.pdb
